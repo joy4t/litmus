@@ -72,10 +72,6 @@ Building this changed how I read A/B tests. The statistically significant result
 
 ## Roadmap
 
-**Near-term UX**
-- **Reset control** next to Analyze so users can evaluate consecutive experiments without reloading the page.
-- **Smart metric input** — dropdown of common product metrics (conversion rate, signup completion, click-through, etc.) with free-text fallback for domain-specific metrics.
-
 **Analytical coverage**
 - **Continuous metrics** (revenue-per-user, AOV, time-on-task) with appropriate tests — biggest expansion of what Litmus can evaluate.
 - **Sequential-testing mode** with peeking-aware stopping rules.
